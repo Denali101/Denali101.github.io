@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'jekyll-theme-modernist', '~> 0.2.0'
 end
 
 gem 'github-pages'

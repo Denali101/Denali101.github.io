@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Gen(Z)AI: Canada’s Youth Assembly on Artificial Intelligence"
+excerpt: "Me with two members from my table at the Gen(Z)AI Montreal forum at McGill!<br/><img src='/images/IMG_0198 (1).jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Previously, I was one of 100 Youth Delegates for [Gen(Z)AI](https://www.mediatechdemocracy.com/gen-z-ai), a youth forum run out of the [Centre for Media, Technology, and Democracy](https://www.mediatechdemocracy.com/). This youth forum consisted of 100 young Canadians (17-23), convening across four regional forums in Toronto, Montreal, Vancouver, and Halifax, each focused on a distinct issue regarding AI in society. We deliberated on these issues, culminating in policy recommendations for each site that were compiled into one [final report](/files/FinalReport.pdf) that was presented to the [Senate](/files/SenateReport.pdf) on April 30, 2026. 
+
+I participated in the Montreal forum, whose focus was information integrity, i.e. how can we deal with the creation and spread of misinformation, disinformation, and deepfakes done by the rapid expansion of AI tools?
+
+#![Alt text](/images/500x300.png)
